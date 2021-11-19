@@ -1,0 +1,52 @@
+# serverless.yml
+
+service: nodejs-mysql-app-copia2
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: dev
+  region: us-east-2
+
+functions:
+  app:
+    handler: src/index.handler
+    events:
+      - http: ANY /prueba1
+      - http: ANY /prueba2
+      - http: ANY /signin
+      - http: ANY /signup
+      - http: ANY /profile
+      - http: ANY /logout
+      - http:
+          path: /
+          method: GET
+      - http:
+          path: /star
+          method: GET    
+      - http:
+          path: /signin
+          method: POST
+      - http:
+          path: /signup
+          method: POST  
+      - http:
+          path: /links
+          method: GET 
+      - http:
+          path: /links/add
+          method: GET
+      - http:
+          path: /links/add
+          method: POST
+      - http:
+          path: /links/delete/{id}
+          method: GET 
+      - http:
+          path: /links/edit/{id}
+          method: GET 
+      - http:
+          path: /links/edit/{id}
+          method: POST                       
+plugins:
+  - serverless-offline      
