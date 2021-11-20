@@ -16,7 +16,6 @@ https://docs.aws.amazon.com/es_es/IAM/latest/UserGuide/id_users_create.html
 Un ejemplo de los permisos para despligue exitoso:
 <img src="https://user-images.githubusercontent.com/26978674/132782460-62f861ac-7113-440e-81ba-83505485ed6e.png">
 
-<img src="https://user-images.githubusercontent.com/26978674/132782047-3240d0d7-cf07-40f0-924a-c466e7f0884c.png">
 
 ### Instalación 🔧
 
