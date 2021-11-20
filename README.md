@@ -31,8 +31,8 @@ serverless deploy
 
 ## Construido con 🛠️
 
-* [AWS](https://aws.amazon.com/es/) RDS MySQL, Api Gateway, Lambda
-* [serverless](https://www.serverless.com/) Haz más con menos. Sin servidor. Serverless Framework
+* [AWS](https://aws.amazon.com/es/) RDS MySQL, Api Gateway, Lambda.
+* [serverless](https://www.serverless.com/) Haz más con menos. Sin servidor. Serverless Framework.
 * [Node.js](https://nodejs.org/es/) Node.js es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
 * [Express](https://expressjs.com/es/) Infraestructura web rápida, minimalista y flexible para Node.js.
 
