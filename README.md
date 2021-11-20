@@ -1,5 +1,6 @@
 # CRUD API EN AWS CON SERVERLESS, NODEJS Y MySQL 
-<img src="https://user-images.githubusercontent.com/26978674/132784305-ed923ffc-7ef1-452f-8ee7-45071ba191d1.png">
+![image](https://user-images.githubusercontent.com/26978674/142708594-e8eb1e02-ea9e-42b4-98f1-df3ea7e3a499.png)
+
 
 En este proyecto usamos la arquitectura de AWS para construir la app Pokémon. Trabajamos con serverless y express. Los endpoint son los puntos finales para operaciones crud en los pokémon y operaciones de sesión para los usuarios. La base de datos que usamos es MySQL.
 
