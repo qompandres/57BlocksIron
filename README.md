@@ -22,7 +22,8 @@ Un ejemplo de los permisos para despligue exitoso:
 En la terminal de su local debe ejecutar: npm install para descargar los paquetes necesarios del proyecto.
 
 Ejemplo de obtener todo los registros para consumir con postman:
-<img src="https://user-images.githubusercontent.com/26978674/132782632-54633f3b-a8f7-4327-b6ae-4710508cda7d.png">
+![image](https://user-images.githubusercontent.com/26978674/142710166-6e57ce4c-730d-4dba-b967-f14a227294b7.png)
+
 
 ## Despliegue 📦
 Para lanzar nuestra aplicación, en la terminal ejecutamos el comando:
